@@ -32,4 +32,9 @@ A simple web-based currency converter that:
 ├── app.js
 ├── codes.js
 └── README.md
-'''
+```
+## 📸 Screenshot
+*(Optional: add image here)*
+
+## 📄 License
+MIT
