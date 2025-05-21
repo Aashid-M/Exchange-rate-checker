@@ -26,3 +26,10 @@ A simple web-based currency converter that:
 👉 [View on GitHub Pages](https://your-username.github.io/flag-currency-converter/)
 
 ## 📁 Project Structure
+'''
+├── index.html
+├── style.css
+├── app.js
+├── codes.js
+└── README.md
+'''
