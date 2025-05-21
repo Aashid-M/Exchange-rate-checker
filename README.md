@@ -33,7 +33,7 @@ A simple, responsive currency converter that uses real-time exchange rates and d
 
 ## 👨‍💻 Author
 
-Built with ❤️ by *Your Name*
+Built with ❤️ by *Aashid-M*
 
 ## 📸 Screenshot
 
