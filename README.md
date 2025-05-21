@@ -41,4 +41,4 @@ Built with ❤️ by *Your Name*
 
 ---
 
-### 🔗 [Live Demo (Optional)](https://your-demo-link.netlify.app)
+### 🔗 [Live Demo](https://aashid-m.github.io/Exchange-rate-checker/)
