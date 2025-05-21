@@ -37,7 +37,7 @@ Built with ❤️ by *Your Name*
 
 ## 📸 Screenshot
 
-> _Add your own screenshot here, if you'd like._
+![App Screenshot](./App_snap.png)
 
 ---
 
